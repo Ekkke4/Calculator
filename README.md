@@ -1,4 +1,4 @@
 # Calculator
-Calculator on Python
+*** Calculator on Python***
  Very simple 
  calculator in Python
